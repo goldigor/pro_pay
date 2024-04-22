@@ -1,0 +1,4 @@
+asyncpg==0.24.0
+python-dotenv==0.19.1
+pydantic==1.9.0
+sqlalchemy==1.4.31
